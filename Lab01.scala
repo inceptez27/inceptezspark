@@ -9,4 +9,6 @@ object Lab01
 
    def sub(a:Int,b:Int) = a - b
 
+   def square(a:Int) = a * a
+
 }
