@@ -4,5 +4,7 @@ object Lab01
    {
        println("Scala calcualtor program")
    }
+   
+   def add(a:Int,b:Int) = a + b
 
 }
