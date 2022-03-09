@@ -7,4 +7,6 @@ object Lab01
    
    def add(a:Int,b:Int) = a + b
 
+   def sub(a:Int,b:Int) = a - b
+
 }
