@@ -9,4 +9,7 @@ object Lab01
 
    def sub(a:Int,b:Int) = a - b
 
+   def mul(a:Int,b:Int) = a * b
+
+
 }
