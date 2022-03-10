@@ -12,6 +12,7 @@ object Lab01
 
        val prod = mul(10,20)
        println("product of a and b is " + prod)	
+
    }
    
    def add(a:Int,b:Int) = a + b
