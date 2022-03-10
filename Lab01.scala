@@ -6,6 +6,9 @@ object Lab01
 
        val diff = sub(50,100)
        println("Difference between a and b is " + diff)
+
+       val sum = add(10,20)
+       println("sum of a and b is " + sum)
    }
    
    def add(a:Int,b:Int) = a + b
